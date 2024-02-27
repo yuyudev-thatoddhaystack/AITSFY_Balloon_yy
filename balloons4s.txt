@@ -1,0 +1,4 @@
+validrect.right,327
+wordwrappoint.x,320
+arrow0.x,313
+arrow1.x,313

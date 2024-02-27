@@ -1,0 +1,5 @@
+charset,UTF-8
+type,balloon
+name,AI:TSF Balloon
+directory,aitsf_balloon_yy
+
